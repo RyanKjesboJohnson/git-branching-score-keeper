@@ -1,0 +1,20 @@
+{
+  "name": "git-branching-score-keeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimeAcademy/git-branching-score-keeper/issues"
+  },
+  "homepage": "https://github.com/PrimeAcademy/git-branching-score-keeper#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
